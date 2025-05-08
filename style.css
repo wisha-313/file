@@ -1,0 +1,20 @@
+.image-1{
+
+    float: inline-start;   }
+.image-2{
+
+    float:inline-end;
+}
+
+
+.hafda>img{
+
+    position:relative;
+}
+
+*{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+
+
+}
